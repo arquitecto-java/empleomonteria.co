@@ -1,0 +1,27 @@
+body {
+    background-color: #f5f5f5;
+}
+
+page {
+    background-color: #ffffff;
+}
+
+.container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+h1 {
+    color: #bc6148;
+}
+
+h2 {
+    color: darkgrey;
+}
+
+.legal {
+    margin-top: 20px;
+}
+
